@@ -1,2 +1,2 @@
 # README #
-a test to check git's functionality
+testing git's functionality
